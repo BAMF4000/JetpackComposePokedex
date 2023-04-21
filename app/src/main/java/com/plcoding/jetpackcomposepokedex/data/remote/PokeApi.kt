@@ -1,7 +1,7 @@
 package com.plcoding.jetpackcomposepokedex.data.remote
 
-import com.plcoding.jetpackcomposepokedex.data.remote.resources.Pokemon
-import com.plcoding.jetpackcomposepokedex.data.remote.resources.PokemonList
+import com.plcoding.jetpackcomposepokedex.data.remote.responses.Pokemon
+import com.plcoding.jetpackcomposepokedex.data.remote.responses.PokemonList
 import retrofit2.http.GET
 import retrofit2.http.Path
 import retrofit2.http.Query
